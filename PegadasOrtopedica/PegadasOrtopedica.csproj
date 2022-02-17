@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C73704D-EBC2-436B-AD67-CFEA51651775}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PegadasOrtopedica</RootNamespace>
+    <AssemblyName>PegadasOrtopedica</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="View\fmrTelaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\fmrTelaInicial.Designer.cs">
+      <DependentUpon>fmrTelaInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroDaEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroDaEmpresa.Designer.cs">
+      <DependentUpon>frmCadastroDaEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroDeFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroDeFornecedor.Designer.cs">
+      <DependentUpon>frmCadastroDeFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroClientes.Designer.cs">
+      <DependentUpon>frmCadastroClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroDeFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroDeFuncionario.Designer.cs">
+      <DependentUpon>frmCadastroDeFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastrodeOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastrodeOS.Designer.cs">
+      <DependentUpon>frmCadastrodeOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroDeProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmCadastroDeProduto.Designer.cs">
+      <DependentUpon>frmCadastroDeProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmSolicitacaoDePedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormsCadastro\frmSolicitacaoDePedido.Designer.cs">
+      <DependentUpon>frmSolicitacaoDePedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCompras.Designer.cs">
+      <DependentUpon>frmCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmEmpresa.Designer.cs">
+      <DependentUpon>frmEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmEstoque.Designer.cs">
+      <DependentUpon>frmEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmFornecedor.Designer.cs">
+      <DependentUpon>frmFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmRecursosHumanos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmRecursosHumanos.Designer.cs">
+      <DependentUpon>frmRecursosHumanos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmRelatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmRelatorio.Designer.cs">
+      <DependentUpon>frmRelatorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVendas.Designer.cs">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\GerarRecibo\frmGerarRecibo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\GerarRecibo\frmGerarRecibo.Designer.cs">
+      <DependentUpon>frmGerarRecibo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLançamentoFinanceiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLançamentoFinanceiro.Designer.cs">
+      <DependentUpon>frmLançamentoFinanceiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThemeColor.cs" />
+    <EmbeddedResource Include="View\fmrTelaInicial.resx">
+      <DependentUpon>fmrTelaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormsCadastro\frmCadastroDaEmpresa.resx">
+      <DependentUpon>frmCadastroDaEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormsCadastro\frmCadastroDeFornecedor.resx">
+      <DependentUpon>frmCadastroDeFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormsCadastro\frmCadastroClientes.resx">
+      <DependentUpon>frmCadastroClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormsCadastro\frmCadastroDeFuncionario.resx">
+      <DependentUpon>frmCadastroDeFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormsCadastro\frmCadastrodeOS.resx">
+      <DependentUpon>frmCadastrodeOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormsCadastro\frmCadastroDeProduto.resx">
+      <DependentUpon>frmCadastroDeProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormsCadastro\frmSolicitacaoDePedido.resx">
+      <DependentUpon>frmSolicitacaoDePedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCompras.resx">
+      <DependentUpon>frmCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmEmpresa.resx">
+      <DependentUpon>frmEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmEstoque.resx">
+      <DependentUpon>frmEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmFornecedor.resx">
+      <DependentUpon>frmFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmRecursosHumanos.resx">
+      <DependentUpon>frmRecursosHumanos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmRelatorio.resx">
+      <DependentUpon>frmRelatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVendas.resx">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\GerarRecibo\frmGerarRecibo.resx">
+      <DependentUpon>frmGerarRecibo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLançamentoFinanceiro.resx">
+      <DependentUpon>frmLançamentoFinanceiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Control\" />
+    <Folder Include="Model\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

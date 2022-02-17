@@ -1,0 +1,194 @@
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe.config
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.pdb
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csprojAssemblyReference.cache
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Properties.Resources.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.GenerateResource.cache
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.exe
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.pdb
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmPrincipal.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmClientes.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmFornecedor.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEstoque.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroClientes.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmLançamentoFinanceiro.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRecursosHumanos.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmVendas.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmCompras.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEmpresa.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFornecedor.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastrodeOS.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.GerarRecibo.frmGerarRecibo.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFuncionario.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeProduto.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmSolicitacaoDePedido.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmLogin.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDaEmpresa.resources
+C:\Users\Felipe Farias\source\repos\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRelatorio.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe.config
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.pdb
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csprojAssemblyReference.cache
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmPrincipal.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDaEmpresa.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFornecedor.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroClientes.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFuncionario.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastrodeOS.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeProduto.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmSolicitacaoDePedido.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmCompras.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEmpresa.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEstoque.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmFornecedor.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmClientes.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRecursosHumanos.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRelatorio.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmVendas.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.GerarRecibo.frmGerarRecibo.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmLançamentoFinanceiro.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmLogin.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Properties.Resources.resources
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.GenerateResource.cache
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.CoreCompileInputs.cache
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.exe
+C:\Users\Felip\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.pdb
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe.config
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.pdb
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.AssemblyReference.cache
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmPrincipal.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDaEmpresa.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFornecedor.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroClientes.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFuncionario.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastrodeOS.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeProduto.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmSolicitacaoDePedido.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmCompras.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEmpresa.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEstoque.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmFornecedor.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmClientes.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRecursosHumanos.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRelatorio.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmVendas.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.GerarRecibo.frmGerarRecibo.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmLançamentoFinanceiro.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmLogin.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Properties.Resources.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.GenerateResource.cache
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.CoreCompileInputs.cache
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.exe
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Programa\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.pdb
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe.config
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.pdb
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.AssemblyReference.cache
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmPrincipal.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDaEmpresa.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFornecedor.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroClientes.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFuncionario.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastrodeOS.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeProduto.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmSolicitacaoDePedido.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmCompras.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEmpresa.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEstoque.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmFornecedor.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmClientes.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRecursosHumanos.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRelatorio.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmVendas.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.GerarRecibo.frmGerarRecibo.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmLançamentoFinanceiro.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmLogin.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Properties.Resources.resources
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.GenerateResource.cache
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.CoreCompileInputs.cache
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.exe
+C:\Users\Felip\Desktop\Programação\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.pdb
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.AssemblyReference.cache
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmPrincipal.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDaEmpresa.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFornecedor.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroClientes.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFuncionario.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastrodeOS.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeProduto.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmSolicitacaoDePedido.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmCompras.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEmpresa.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEstoque.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmFornecedor.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmClientes.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRecursosHumanos.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRelatorio.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmVendas.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.GerarRecibo.frmGerarRecibo.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmLançamentoFinanceiro.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmLogin.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Properties.Resources.resources
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.GenerateResource.cache
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.CoreCompileInputs.cache
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.exe
+C:\Users\Felip\Desktop\Estudo\Portifólio\Pegadas Ortopédica\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.pdb
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe.config
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.pdb
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.AssemblyReference.cache
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmPrincipal.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDaEmpresa.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFornecedor.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroClientes.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFuncionario.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastrodeOS.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeProduto.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmSolicitacaoDePedido.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmCompras.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEmpresa.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEstoque.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmFornecedor.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmClientes.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRecursosHumanos.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRelatorio.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmVendas.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.GerarRecibo.frmGerarRecibo.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmLançamentoFinanceiro.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmLogin.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Properties.Resources.resources
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.GenerateResource.cache
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.CoreCompileInputs.cache
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.exe
+D:\Projetos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.pdb
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe.config
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.exe
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\bin\Debug\PegadasOrtopedica.pdb
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.AssemblyReference.cache
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.SuggestedBindingRedirects.cache
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmPrincipal.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDaEmpresa.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFornecedor.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroClientes.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeFuncionario.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastrodeOS.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmCadastroDeProduto.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.FormsCadastro.frmSolicitacaoDePedido.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmCompras.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEmpresa.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmEstoque.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmFornecedor.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmClientes.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRecursosHumanos.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmRelatorio.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmVendas.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.GerarRecibo.frmGerarRecibo.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Forms.frmLançamentoFinanceiro.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.frmLogin.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.Properties.Resources.resources
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.GenerateResource.cache
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.csproj.CoreCompileInputs.cache
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.exe
+E:\source\repos\Desktop\PegadasOrtopedica-20210506T161212Z-001\PegadasOrtopedica\PegadasOrtopedica\obj\Debug\PegadasOrtopedica.pdb
